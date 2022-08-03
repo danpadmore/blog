@@ -10,4 +10,5 @@ So blogging in [markdown](https://www.markdownguide.org/) it is, doesn't get mor
 
 
 Theme music for this blog post :)
-[![LL Cool J - Mama Said Knock You Out](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]([http://www.youtube.com/watch?v=vimZj8HW0Kg](https://www.youtube.com/watch?v=vimZj8HW0Kg) "LL Cool J - Mama Said Knock You Out")
+
+[![LL Cool J - Mama Said Knock You Out](http://img.youtube.com/vi/vimZj8HW0Kg/0.jpg)](http://www.youtube.com/watch?v=vimZj8HW0Kg "LL Cool J - Mama Said Knock You Out")
